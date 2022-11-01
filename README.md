@@ -7,7 +7,12 @@
 <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;" width="25px" height="25px">
 <img src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;" width="25px" height="25px">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="C# Vector Logo - Download Free SVG Icon | Worldvectorlogo" data-noaft="1" style="width: 25px; height: 25px; margin: 0px;">
-<img width=25px height=25px src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="Bot logo" >
+<img alt="Rafa-mysql" height="25px" width="25px" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
+<img alt="PHP" height="25px" width="25px" src="https://www.designbust.com/download/240/png/php_icon512.png">
+
+
+
+
 <div> 
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renanluizssx&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Renan Luiz github stats" />
