@@ -9,7 +9,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="C# Vector Logo - Download Free SVG Icon | Worldvectorlogo" data-noaft="1" style="width: 25px; height: 25px; margin: 0px;">
 <img alt="Rafa-mysql" height="25px" width="25px" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
 <img alt="PHP" height="25px" width="25px" src="https://www.designbust.com/download/240/png/php_icon512.png">
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/renan-l-2a26661ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<br>
+<a href="https://www.linkedin.com/in/renan-l-2a26661ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 
 
