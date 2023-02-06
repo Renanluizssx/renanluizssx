@@ -10,7 +10,8 @@
 <img alt="Rafa-mysql" height="25px" width="25px" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
 <img alt="PHP" height="25px" width="25px" src="https://www.designbust.com/download/240/png/php_icon512.png">
 <br>
-<a href="https://www.linkedin.com/in/renan-l-2a26661ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<br>
+<a href="https://www.linkedin.com/in/renan-l-2a26661ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" ></a> 
 
 
 
